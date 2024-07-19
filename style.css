@@ -1,0 +1,39 @@
+*{ margin:0px; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;}
+.img1{vertical-align: middle; margin-top: -15px;}
+h1{color: black; text-shadow: 1px 1px 4px darkblue; display: inline-block;
+    font-size: 20px;}
+h1::first-letter{font-size: 40px ; color: rgb(4, 4, 17);}
+.main-div{display:inline-block; margin:-30 20px;}
+.sub1{ display: inline-block ; margin-left: 700px ; }
+.sub2{ margin-left: 400px;}
+.inp {border: 2px solid navy; width: 350px; padding: 5px; margin-top: -10px;}
+.link1{margin-right: 40px ; font-size:large;text-decoration:none;color:black; font-weight: bold;}
+.link1:hover{background-color: darkblue; color: white; padding: 5px 25px;
+position:relative; transition-duration: 0.4s; border-radius: 8px;  }
+.srch{margin-left: 2px; padding: 3px; background-color: white; border: 2px solid navy; 
+    text-decoration: none; color: black;}
+.srch:hover{padding: 6px; color: white; background-color: navy;}  
+.sub3{margin: 10px 0 15px 440px}
+.ulink1{text-decoration: none; color: darkblue; margin-left: 30px;} 
+.ulink1:hover{color: black; font-weight: bold; transition-duration: 0.2s;}
+ /*second section started from here  */
+.list{display: inline-block; width: max-content; 
+    height: max-content; padding:10px 30px 0 0; margin-left:20px ;}
+.list2{width: max-content;height: max-content;; padding: 10px 30px 0 0; margin-left: 20px;}
+.list3{width: max-content; height:500px; padding: 10px 30px 0 0 ;  margin-left: 20px ;}
+ul{list-style: none;}
+
+li{margin-top: 10px; margin-right: 8px}
+li>a{ text-decoration: none; color: darkblue;}
+li>a:hover{color: black; font-weight: bolder; transition-duration: 0.4s}
+/* use of pre position absolute */
+.usub1{display: inline-block; width:100% ; height:max-content ; position:absolute; padding-left:5px ;
+    margin:1px 0 0 1px ;border-bottom: 1px solid; border-left: 1px solid navy;}
+.pre{position:absolute; white-space: pre; margin-top: -7px;}
+
+
+
+
+
+
+
